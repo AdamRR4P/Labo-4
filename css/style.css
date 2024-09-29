@@ -1,5 +1,5 @@
 body{
-    background-image: url(/images/cinema.avif);
+    background-image: url(../images/cinema.avif);
     min-height: 100vh;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -17,7 +17,6 @@ h1{
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 20px;
-    
 }
 
 ul.a{
