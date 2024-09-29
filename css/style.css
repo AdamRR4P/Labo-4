@@ -1,0 +1,32 @@
+body{
+    background-image: url(/images/cinema.avif);
+    min-height: 100vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: left;
+}
+.realisateur{
+    color: yellowgreen;
+    font-size: 25px;
+    list-style: none;
+    text-align: left;
+    
+}
+h1{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    
+}
+
+ul.a{
+    list-style-type: none;
+}
+ol{
+    list-style: upper-latin;
+}
+
+ul.b{
+    list-style: disc;
+}
